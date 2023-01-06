@@ -1,5 +1,5 @@
 const allowedOrigin = [
-  'http://localhost:5173'
+  'https://catwiki-kannan.onrender.com'
 ]
 
 const corsOptions = {
