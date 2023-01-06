@@ -1,5 +1,6 @@
 const allowedOrigin = [
-  'https://catwiki-kannan.onrender.com'
+  'https://catwiki-kannan.onrender.com',
+  'https://catwiki-kannan.onrender.com/'
 ]
 
 const corsOptions = {
